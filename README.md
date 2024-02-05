@@ -40,12 +40,14 @@ The format is something like this:
 ```
 
 - Discord Channel ID
+
 Just enable developer option of Discord and right click the channel that you want this bot to run.
 ```bash
 11666357564388798538
 ```
 
 - Discord Bot Token
+
 Copy and paste it from Discord developer portal into the code.
 
 
