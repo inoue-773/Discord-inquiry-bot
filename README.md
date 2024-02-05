@@ -8,12 +8,15 @@ This bot is particularly useful when you need to log something that shouldn't be
 ## Requirements
 
 - Discord bot (obviously)
+
 Just go to https://discord.com/developers/applications and create one. Make sure not to upload your bot token on the internet. 
 
 - A server
+
 You can use your computer or you can rent one as well. I personally use https://railway.app/ to run this bot 24/7. (not affiliated)
 
 - MongoDB Database
+
 This bot uses MongoDB to store all the message. I personally use https://railway.app/ for this as well since I can manage and connect them easily. (not affiliated)
 
 ## Before you use
